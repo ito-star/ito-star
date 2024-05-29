@@ -8,7 +8,7 @@ Thank you for visiting. Here's a little bit about me:
 
 Tools & technologies I work with:
 
-![list of tools and technologies I work with](https://skillicons.dev/icons?perline=11&i=aws,gcp,cloudflare,supabase,kubernetes,docker,linux,bash,ts,svelte,html,tailwind,sass,css,js,nodejs,vscode,vite,git,postgres,redis,mongodb,graphql,figma,sketchup,grafana,gradle,tauri")
+![list of tools and technologies I work with](https://skillicons.dev/icons?perline=11&i=aws,gcp,cloudflare,supabase,react,nextjs,ts,svelte,html,tailwind,sass,css,js,nodejs,vscode,vite,git,postgres,redis,mongodb,graphql,figma,sketchup,grafana,gradle,tauri")
 
 
 ### 🔥 &nbsp; My Stats :
