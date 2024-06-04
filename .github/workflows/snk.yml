@@ -19,7 +19,7 @@ jobs:
   # This workflow contains a single job called "build"
   generate:
     permissions:
-      content: write
+      contents: write
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     timeout-minutes: 5
