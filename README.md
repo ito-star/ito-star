@@ -2,19 +2,13 @@
     <strong>Software Engineer | Technology Enthusiast | Lifelong Learner</strong>
 </p>
 
-<!-- <div align="center">
-    <h2>About Me</h2>
-    <p>
-        I'm a dedicated software engineer with a deep interest in technology and continuous professional development. My
-        interests include:
-    <ul style="list-style-position:inside;width:500;text-wrap:wrap;">
-        <li>Reading: I frequently engage with non-fiction to expand my knowledge of engineering and non-engineering
-            topics and to stay informed about industry trends.</li>
-        <li>Fitness: Committed to strength and conditioning training, understanding the importance of a healthy body for
-            a productive mind.</li>
-    </ul>
-    </p>
-</div> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 <div align="center">
 	<h2>About Me</h2>
 </div>
