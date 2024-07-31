@@ -16,7 +16,7 @@
 <div align="center">
 
 ```
-My name is Miki Ito. I'm a dedicated software engineer with a deep interest in technology and continuous professional development.
+My name is Mikio Ito. I'm a dedicated software engineer with a deep interest in technology and continuous professional development.
 
 My interests include:
 - Reading
