@@ -46,6 +46,10 @@ jobs:
             dist/github-grid-snake.svg
             dist/github-grid-snake-dark.svg?palette=github-dark
 
+      - name: Set up Git user
+        run: |
+          git config --global user.name "Mikio Ito"
+          git config --global user.email "mito.gosu@gmail.com"
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
